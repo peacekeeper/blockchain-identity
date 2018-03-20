@@ -2,7 +2,6 @@
 
 Projects/companies working on blockchain and identity (pull requests welcome):
 
- * [2WAY.IO](http://2way.io/) is developing a peer-to-peer protocol for trust and identity on the Internet. It maintains "blockchain agnosticism", i.e. doesn't require but will be compatible with blockchain. Its architecture will be based on real-life social and economic structures of human civilizations.
  * [ÆTERNITY](http://aeternity.com/) is a novel blockchain focusing on improved smart contract capabilities such as better scalability and easier integration of off-chain data. It uses value tokens called "aeons". It offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema.org's data structures are used for representing data about persons and organizations.
  * [ÆVATAR](http://aevatar.com/) is a cooperative originating in France and established in several different countries that works on delivering self-sovereign identity technologies, using distributed ledger technology and verified claims. It is guided by various regulations and principles such as the GDPR, eIDAS, the UN's ID2020 objectives, and the CEN Workshop 84 standardization body.
  * [AID:Tech](https://aid.technology/) is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner.
